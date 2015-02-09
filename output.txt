@@ -1,0 +1,32 @@
+TTTTTT
+TTTTM
+TTTMT
+TTTO
+TTMTT
+TTMM
+TTOT
+Invalid Morse Code.
+TMTTT
+TMTM
+TMMT
+TMO
+TOTT
+TOM
+Invalid Morse Code.
+T0
+MTTTT
+MTTM
+MTMT
+MTO
+MMTT
+MMM
+MOT
+Invalid Morse Code.
+OTTT
+OTM
+OMT
+OO
+Invalid Morse Code.
+Invalid Morse Code.
+0T
+31

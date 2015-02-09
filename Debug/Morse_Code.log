@@ -1,0 +1,17 @@
+﻿Build started 4/29/2014 12:38:32 AM.
+     1>Project "C:\Users\Parita\Documents\Visual Studio 2010\Projects\Morse_Code\Morse_Code\Morse_Code.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Morse_Code.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Morse_Code.vcxproj -> C:\Users\Parita\Documents\Visual Studio 2010\Projects\Morse_Code\Debug\Morse_Code.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Morse_Code.unsuccessfulbuild".
+         Touching "Debug\Morse_Code.lastbuildstate".
+     1>Done Building Project "C:\Users\Parita\Documents\Visual Studio 2010\Projects\Morse_Code\Morse_Code\Morse_Code.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
